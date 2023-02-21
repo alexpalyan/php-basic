@@ -153,6 +153,9 @@
                     Зробити головну сторінку списку задач з можливістю перегляду,
                     створення, редагування, видалення задач.
                   </p>
+                  <a href="#" class="btn btn-tool">
+                    <i class="fas fa-file"></i>
+                  </a>
                   <small class="badge badge-danger"><i class="far fa-clock"></i> 2 mins</small>
                 </div>
               </div>
